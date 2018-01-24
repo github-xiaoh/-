@@ -1,0 +1,38 @@
+1516772974289	geckodriver	INFO	geckodriver 0.19.1
+1516772974299	geckodriver	INFO	Listening on 127.0.0.1:50940
+1516772976409	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.zL46TWf9FEho"
+1516772977360	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+Promise rejected while context is inactive: Message manager disconnected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516772982771	geckodriver	INFO	geckodriver 0.19.1
+1516772982785	geckodriver	INFO	Listening on 127.0.0.1:50967
+1516772984878	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.cWqkVPMSiNvv"
+1516772985653	Marionette	INFO	Enabled via --marionette
+[Child 9852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516772988541	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+[Child 2764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Promise rejected while context is inactive: Message manager disconnected
+1516772988742	Marionette	INFO	Listening on port 50974
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516773164274	geckodriver	INFO	geckodriver 0.19.1
+1516773164286	geckodriver	INFO	Listening on 127.0.0.1:51076
+1516773166413	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.ygqcFT4XdOW7"
+1516773167297	Marionette	INFO	Enabled via --marionette
+[Child 1528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516773170458	Marionette	INFO	Listening on port 51082
+1516773170540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516773170623	Marionette	DEBUG	Register listener.js for window 4294967297
+1516773170673	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516773170788	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516773170788	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516773171490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fanyi.baidu.com//"
+1516773171915	Marionette	DEBUG	Received DOM event "pageshow" for "http://fanyi.baidu.com//"
