@@ -1,0 +1,350 @@
+1516850061415	geckodriver	INFO	geckodriver 0.19.1
+1516850061424	geckodriver	INFO	Listening on 127.0.0.1:63621
+1516850063417	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.vC6DKhGHUKNe"
+1516850066257	Marionette	INFO	Enabled via --marionette
+[Child 8748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516850070217	Marionette	INFO	Listening on port 63629
+1516850070521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516850070673	Marionette	DEBUG	Register listener.js for window 4294967297
+1516850070702	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516850070765	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516850070765	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516850071278	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516850071398	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516850071748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516850081810	geckodriver	INFO	geckodriver 0.19.1
+1516850081820	geckodriver	INFO	Listening on 127.0.0.1:63688
+1516850083940	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.ZENolwd1ulY6"
+1516850084873	Marionette	INFO	Enabled via --marionette
+[Child 9908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516850087965	Marionette	INFO	Listening on port 63696
+1516850088062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516850088134	Marionette	DEBUG	Register listener.js for window 4294967297
+1516850088190	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516850088222	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516850088222	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516850088694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516850088822	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516850089199	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516850147472	geckodriver	INFO	geckodriver 0.19.1
+1516850147481	geckodriver	INFO	Listening on 127.0.0.1:63762
+1516850149581	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.mpoLe87FFmFS"
+1516850150422	Marionette	INFO	Enabled via --marionette
+[Child 11472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516850153818	Marionette	INFO	Listening on port 63769
+1516850154800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516850154861	Marionette	DEBUG	Register listener.js for window 4294967297
+1516850154879	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516850154906	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516850154906	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516850155395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516850155559	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516850155991	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516850162597	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516850164855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516850192063	geckodriver	INFO	geckodriver 0.19.1
+1516850192071	geckodriver	INFO	Listening on 127.0.0.1:63839
+1516850194186	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.k9oagOdqGZWN"
+1516850195006	Marionette	INFO	Enabled via --marionette
+[Child 516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516850198315	Marionette	INFO	Listening on port 63845
+1516850199408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516850199499	Marionette	DEBUG	Register listener.js for window 4294967297
+1516850199522	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516850199548	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516850199549	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516850200083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516850200185	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516850200540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516856063356	geckodriver	INFO	geckodriver 0.19.1
+1516856063364	geckodriver	INFO	Listening on 127.0.0.1:49514
+1516856065503	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.ZtT79Egy5bt2"
+1516856067707	Marionette	INFO	Enabled via --marionette
+[Child 10756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516856072552	Marionette	INFO	Listening on port 49520
+1516856072986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516856073060	Marionette	DEBUG	Register listener.js for window 4294967297
+1516856073091	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516856073154	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516856073154	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516856073821	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516856074220	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516856074560	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516856165197	geckodriver	INFO	geckodriver 0.19.1
+1516856165206	geckodriver	INFO	Listening on 127.0.0.1:49588
+1516856167315	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.B86Q1yWZ56RG"
+1516856168214	Marionette	INFO	Enabled via --marionette
+[Child 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516856173715	geckodriver	INFO	geckodriver 0.19.1
+1516856173725	geckodriver	INFO	Listening on 127.0.0.1:49617
+1516856175813	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.QQ3tRuBE58f3"
+1516856176716	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+JavaScript error: resource://shield-recipe-client/lib/ShieldRecipeClient.jsm, line 70: TypeError: log is undefined
+Promise rejected while context is inactive: Message manager disconnected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516856300002	geckodriver	INFO	geckodriver 0.19.1
+1516856300012	geckodriver	INFO	Listening on 127.0.0.1:49675
+1516856302114	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.0q3yX2lH6fry"
+1516856302980	Marionette	INFO	Enabled via --marionette
+[Child 7376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516856306605	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+Promise rejected while context is inactive: Message manager disconnected
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/crypto-SDR.js, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIPK11TokenDB.getInternalKeyToken]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/storage-json.js, line 89: Error: Initialization failed
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsLoginManager.js, line 129: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Initialization failed" {file: "jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/storage-json.js" line: 89}]'[JavaScript Error: "Initialization failed" {file: "jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/storage-json.js" line: 89}]' when calling method: [nsILoginManagerStorage::initialize]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 251: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]'[JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]' when calling method: [nsIHandlerService::store]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516856308068	geckodriver	INFO	geckodriver 0.19.1
+1516856308078	geckodriver	INFO	Listening on 127.0.0.1:49704
+1516856310155	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.AW2TM6cwOlRy"
+1516856311267	Marionette	INFO	Enabled via --marionette
+[Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516856314239	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+Promise rejected while context is inactive: Message manager disconnected
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 251: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]'[JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]' when calling method: [nsIHandlerService::store]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516856343355	geckodriver	INFO	geckodriver 0.19.1
+1516856343364	geckodriver	INFO	Listening on 127.0.0.1:49739
+1516856345505	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.P3jXxEvA4d2L"
+1516856346654	Marionette	INFO	Enabled via --marionette
+1516856349865	Marionette	INFO	Listening on port 49745
+1516856350730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516856350808	Marionette	DEBUG	Register listener.js for window 4294967297
+1516856350836	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516856350863	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516856350863	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516856351371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516856351896	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516856352235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516856361730	geckodriver	INFO	geckodriver 0.19.1
+1516856361740	geckodriver	INFO	Listening on 127.0.0.1:49803
+1516856363840	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.LGVTaooXM0ci"
+1516856364792	Marionette	INFO	Enabled via --marionette
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516856367999	Marionette	INFO	Listening on port 49809
+1516856369069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516856369133	Marionette	DEBUG	Register listener.js for window 4294967297
+1516856369165	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516856369199	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516856369200	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516856369676	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516856369786	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516856370127	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516856376713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516856378935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516856450681	geckodriver	INFO	geckodriver 0.19.1
+1516856450689	geckodriver	INFO	Listening on 127.0.0.1:49876
+1516856452844	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.InS15X8RtZ1j"
+1516856453922	Marionette	INFO	Enabled via --marionette
+1516856456966	Marionette	INFO	Listening on port 49882
+1516856456990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516856457063	Marionette	DEBUG	Register listener.js for window 4294967297
+1516856457090	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516856457167	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516856457168	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516856457882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516856458132	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516856458486	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516856462925	geckodriver	INFO	geckodriver 0.19.1
+1516856462934	geckodriver	INFO	Listening on 127.0.0.1:49934
+1516856465085	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.AyCSNkarnTGm"
+1516856466002	Marionette	INFO	Enabled via --marionette
+[Child 6900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516856469332	Marionette	INFO	Listening on port 49940
+1516856470315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516856470402	Marionette	DEBUG	Register listener.js for window 4294967297
+1516856470430	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516856470457	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516856470457	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516856470988	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516856471122	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516856471658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516857222046	geckodriver	INFO	geckodriver 0.19.1
+1516857222055	geckodriver	INFO	Listening on 127.0.0.1:50109
+1516857224194	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.TLFYiZoqe14Z"
+1516857225164	Marionette	INFO	Enabled via --marionette
+[Child 7880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516857228293	Marionette	INFO	Listening on port 50116
+1516857228325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516857228407	Marionette	DEBUG	Register listener.js for window 4294967297
+1516857228469	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516857228593	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516857228593	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516857229757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516857230223	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516857230542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516857237114	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516857239343	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516857263976	geckodriver	INFO	geckodriver 0.19.1
+1516857263987	geckodriver	INFO	Listening on 127.0.0.1:50182
+1516857266092	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.1DVer0c3CaUP"
+1516857267097	Marionette	INFO	Enabled via --marionette
+[Child 12912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516857270221	Marionette	INFO	Listening on port 50188
+1516857271319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516857271388	Marionette	DEBUG	Register listener.js for window 4294967297
+1516857271414	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516857271448	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516857271449	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516857272049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516857272156	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516857272497	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516857279075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516857280295	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516857337229	geckodriver	INFO	geckodriver 0.19.1
+1516857337238	geckodriver	INFO	Listening on 127.0.0.1:50253
+1516857339308	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.6FN7A7vfhKYc"
+1516857340328	Marionette	INFO	Enabled via --marionette
+[Child 7680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516857343447	Marionette	INFO	Listening on port 50259
+1516857344536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516857344603	Marionette	DEBUG	Register listener.js for window 4294967297
+1516857344629	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516857344658	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516857344659	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516857345341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516857345457	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516857345990	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516857356157	geckodriver	INFO	geckodriver 0.19.1
+1516857356167	geckodriver	INFO	Listening on 127.0.0.1:50313
+1516857358282	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.BRX7wtHwUUNs"
+1516857359267	Marionette	INFO	Enabled via --marionette
+[Child 12168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516857362986	Marionette	INFO	Listening on port 50319
+1516857363523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516857363628	Marionette	DEBUG	Register listener.js for window 4294967297
+1516857363655	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516857363679	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516857363680	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516857364270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516857364374	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516857364716	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516858934415	geckodriver	INFO	geckodriver 0.19.1
+1516858934424	geckodriver	INFO	Listening on 127.0.0.1:51345
+1516858936525	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.hmWFQBHs30aq"
+1516858937437	Marionette	INFO	Enabled via --marionette
+[Child 13916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516858940591	Marionette	INFO	Listening on port 51352
+1516858940651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516858940725	Marionette	DEBUG	Register listener.js for window 4294967297
+1516858940758	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516858940804	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516858940804	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516858941297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516858941407	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516858941768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516858986515	geckodriver	INFO	geckodriver 0.19.1
+1516858986523	geckodriver	INFO	Listening on 127.0.0.1:51409
+1516858988624	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.TqT0yDgZxbhT"
+1516858989599	Marionette	INFO	Enabled via --marionette
+[Child 11584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516858992836	Marionette	INFO	Listening on port 51415
+1516858993855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516858993929	Marionette	DEBUG	Register listener.js for window 4294967297
+1516858993955	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516858993980	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516858993980	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516858994559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516858994659	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516858995242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516859099857	geckodriver	INFO	geckodriver 0.19.1
+1516859099866	geckodriver	INFO	Listening on 127.0.0.1:51477
+1516859101979	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.EhLWKlMcNATp"
+1516859102877	Marionette	INFO	Enabled via --marionette
+[Child 12340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516859105938	Marionette	INFO	Listening on port 51483
+1516859106094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516859106178	Marionette	DEBUG	Register listener.js for window 4294967297
+1516859106210	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516859106254	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516859106255	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516859107149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516859107251	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516859107599	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516859139634	geckodriver	INFO	geckodriver 0.19.1
+1516859139643	geckodriver	INFO	Listening on 127.0.0.1:51547
+1516859141771	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.HYbGhiwDi0qi"
+1516859142845	Marionette	INFO	Enabled via --marionette
+[Child 6160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516859146187	Marionette	INFO	Listening on port 51555
+1516859146998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516859147091	Marionette	DEBUG	Register listener.js for window 4294967297
+1516859147117	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516859147145	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516859147145	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516859147602	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516859147724	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516859148093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516859226534	geckodriver	INFO	geckodriver 0.19.1
+1516859226543	geckodriver	INFO	Listening on 127.0.0.1:51615
+1516859228654	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.0foeBMJokcgh"
+1516859229557	Marionette	INFO	Enabled via --marionette
+[Child 428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516859232656	Marionette	INFO	Listening on port 51621
+1516859232787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516859232869	Marionette	DEBUG	Register listener.js for window 4294967297
+1516859232893	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516859232997	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516859232998	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516859233743	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516859233845	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516859234208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516859265163	geckodriver	INFO	geckodriver 0.19.1
+1516859265172	geckodriver	INFO	Listening on 127.0.0.1:51678
+1516859267276	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\小h\\AppData\\Local\\Temp\\rust_mozprofile.d3lw6t286ld1"
+1516859268233	Marionette	INFO	Enabled via --marionette
+[Child 7020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516859271591	Marionette	INFO	Listening on port 51684
+1516859272492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516859272582	Marionette	DEBUG	Register listener.js for window 4294967297
+1516859272609	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516859272635	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516859272636	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516859273296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mamadmintest.52yingzheng.com/#/login/"
+1516859273400	Marionette	DEBUG	Received DOM event "pageshow" for "http://mamadmintest.52yingzheng.com/#/login"
+1516859273754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
