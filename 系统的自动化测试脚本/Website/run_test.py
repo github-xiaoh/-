@@ -18,3 +18,6 @@ fp = open(filename, 'wb')
 
 runner = HTMLTestRunner.HTMLTestRunner(stream=fp, title=u'自动化整合报告', description=u'用例执行情况')
 runner.run(all_tests.suite())
+
+
+
